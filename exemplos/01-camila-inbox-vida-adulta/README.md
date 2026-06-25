@@ -8,7 +8,7 @@ A Camila não precisa de uma rotina perfeita. Ela precisa reduzir a sensação d
 
 ## Persona
 
-Camila Rocha tem 32 anos, mora sozinha, trabalha de segunda a sexta e chega ao fim do dia com pouca energia. Ela acumulou pendências pequenas: boleto, consulta, assinatura, farmácia, documentos, backup de fotos, cartão, mensagens e tarefas domésticas.
+Camila Rocha tem 32 anos, mora sozinha, trabalha de segunda a sexta e chega ao fim do dia com pouca energia. Ela acumulou pendências pequenas de agenda, casa, organização digital, assinatura e tarefas administrativas.
 
 ## Dor principal
 
@@ -19,9 +19,8 @@ Tudo parece importante ao mesmo tempo. Quando ela tenta organizar tudo de uma ve
 | Arquivo | Para que serve |
 |---|---|
 | `contexto.md` | Contexto humano da persona, rotina e restrições |
-| `comunicacoes.md` | Recortes fictícios de mensagens, e-mails e lembretes |
-| `pendencias.csv` | Lista estruturada de pendências |
-| `rotina_energia.csv` | Energia disponível por período e rotina semanal |
+| `tarefas.md` | Lista de tarefas fictícias com prioridade, esforço e possibilidade de adiar |
+| `rotina.md` | Energia disponível por período e rotina semanal |
 
 ## Como usar
 
