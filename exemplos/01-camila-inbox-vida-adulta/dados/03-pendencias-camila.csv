@@ -1,0 +1,13 @@
+id,origem,pendencia,categoria,urgencia,esforco_min,prazo,dependencia,melhor_periodo,pode_adiar,risco_se_nao_fizer,observacao
+P001,e-mail,Pagar boleto do condomínio,financeiro,alta,10,2026-06-12,segunda via no portal,almoço,não,multa pequena e sensação de pendência aberta,confirmar se já venceu antes de orientar
+P002,whatsapp,Marcar dentista,saúde,média,15,2026-06-14,escolher horário,almoço,"sim, até sexta",perder os horários sugeridos,não tratar como urgência médica
+P003,sms,Comprar/remover medicamento na farmácia,saúde,alta,20,2026-06-11,passar na farmácia,volta do trabalho,não,ficar sem medicamento no fim da semana,validar se é retirada ou compra
+P004,app banco,Ver por que a fatura do cartão veio alta,financeiro,alta,25,2026-06-13,abrir app do cartão,noite leve,não,pagar sem entender ou deixar ansiedade aumentar,não concluir causa sem dados
+P005,e-mail,Cancelar assinatura pouco usada,assinatura,média,15,2026-07-10,login no serviço,noite leve,sim,nova cobrança no próximo mês,pode virar tarefa rápida
+P006,drive,Organizar documentos no Google Drive,documentos,baixa,60,sem prazo fixo,notebook e internet,sábado manhã,sim,continuar difícil achar documentos,quebrar em etapas
+P007,celular,Fazer backup das fotos,digital,média,45,2026-06-16,wifi e carregador,sábado manhã,"sim, poucos dias",armazenamento cheio,não colocar em noite cansada
+P008,whatsapp,Responder mensagem importante da Júlia,relacionamento,alta,10,2026-06-11,nenhuma,almoço ou noite leve,não,gerar ruído na relação,tarefa emocionalmente pequena se limitar resposta
+P009,casa,Trocar lâmpada da cozinha,doméstico,baixa,15,sem prazo fixo,comprar lâmpada,sábado,sim,incômodo doméstico,depende de compra
+P010,casa,Limpar uma prateleira da geladeira,doméstico,baixa,20,sem prazo fixo,estar em casa,sábado ou domingo,sim,incômodo visual,não misturar com faxina geral
+P011,e-mail,Responder e-mail do RH sobre comprovante,trabalho/admin,média,12,2026-06-13,anexar documento,almoço,"sim, até sexta",pendência administrativa aberta,depende de achar comprovante
+P012,app mercado,Fazer lista curta de mercado,casa,média,15,2026-06-14,ver itens faltando,noite leve,sim,compra por impulso ou esquecimento,serve para destravar mercado

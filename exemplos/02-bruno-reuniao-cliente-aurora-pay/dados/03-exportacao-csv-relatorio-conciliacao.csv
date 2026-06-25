@@ -1,0 +1,31 @@
+merchant_id,merchant_name,settlement_date,transaction_count,gross_amount_brl,fees_amount_brl,net_amount_exported_brl,export_status,export_generated_at,filter_used
+AP-1001,Mercado Vila Norte,2026-06-15,184,92340.50,1292.77,91047.73,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1002,Padaria Central BH,2026-06-15,97,28420.90,397.89,28023.01,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1003,Drogaria Santa Luzia,2026-06-15,141,68790.00,963.06,67826.94,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1004,Loja Estação Kids,2026-06-15,76,18890.25,264.46,18625.79,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1005,Café Aurora Sul,2026-06-15,59,12480.70,174.73,12305.97,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1006,Auto Peças Rota 8,2026-06-15,121,55610.40,778.55,54831.85,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1007,Boutique Maré Alta,2026-06-15,64,23750.00,332.50,23417.50,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1008,Pet Shop Bons Amigos,2026-06-15,88,31840.60,445.77,31394.83,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1009,Casa das Tintas União,2026-06-15,42,41220.00,577.08,40642.92,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1010,Mini Mercado das Flores,2026-06-15,113,45210.30,632.94,44577.36,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1011,Sapataria São Bento,2026-06-15,38,9340.80,130.77,9210.03,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1012,Restaurante Horizonte,2026-06-15,205,84110.10,1177.54,82932.56,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1013,Loja Tech Minas,2026-06-15,51,72780.50,1018.93,71761.57,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1014,Papelaria Ponto Certo,2026-06-15,69,16320.25,228.48,16091.77,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1015,Academia Move Mais,2026-06-15,134,39670.90,555.39,39115.51,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1016,Bazar Dona Leda,2026-06-15,32,6110.75,85.55,6025.20,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1017,Ótica Visão Clara,2026-06-15,27,19420.00,271.88,19148.12,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1018,Floricultura Primavera,2026-06-15,46,8750.40,122.51,8627.89,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1019,Material de Construção Alfa,2026-06-15,83,108900.00,1524.60,107375.40,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1020,Clínica Vida Leve,2026-06-15,36,26450.00,370.30,26079.70,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1021,Empório São Judas,2026-06-22,122,50210.00,702.94,49507.06,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1022,Farmácia Pague Bem,2026-06-22,191,77340.80,1082.77,76258.03,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1023,Supermercado Rio Verde,2026-06-22,288,154900.00,2168.60,152731.40,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1024,Loja de Roupas Laço,2026-06-22,74,21980.90,307.73,21673.17,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1025,Posto Avenida 3,2026-06-22,342,210430.70,2946.03,207484.67,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1026,Livraria Página Aberta,2026-06-22,58,18450.00,258.30,18191.70,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1027,Casa de Carnes Nobre,2026-06-22,119,59720.60,836.09,58884.51,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1028,Loja Game Point,2026-06-22,33,28900.00,404.60,28495.40,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1029,Hortifruti Bela Vista,2026-06-22,86,23110.30,323.54,22786.76,settled,2026-06-22 09:37,status=settled; period=last_monday
+AP-1030,Móveis Nova Casa,2026-06-22,25,89300.00,1250.20,88049.80,settled,2026-06-22 09:37,status=settled; period=last_monday

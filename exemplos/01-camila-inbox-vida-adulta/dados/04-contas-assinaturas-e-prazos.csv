@@ -1,0 +1,6 @@
+id,fornecedor_ficticio,tipo,valor_estimado_brl,vencimento,status,canal,acao_sugerida,prioridade,risco
+C001,Condomínio Aurora Norte,boleto,486.90,2026-06-12,em aberto,portal do condomínio,pagar ou confirmar pagamento,alta,multa e juros
+C002,StreamNow,assinatura,39.90,2026-07-10,ativa,site do serviço,avaliar cancelamento,média,cobrança recorrente
+C003,Cloud Fotos,assinatura,11.90,2026-06-20,ativa,app store,manter se backup for necessário,baixa,perder sincronização se cancelar sem backup
+C004,Cartão Banco Lume,fatura,1286.40,2026-06-15,fechada,app do banco,revisar lançamentos antes de pagar,alta,pagar sem entender valor acima do normal
+C005,Internet Casa,conta fixa,119.90,2026-06-18,a vencer,app operadora,sem ação imediata,baixa,vencimento futuro

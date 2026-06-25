@@ -1,0 +1,5 @@
+merchant_id,merchant_name,settlement_date,net_exported_brl,net_dashboard_brl,difference_brl,possible_reason,classification,owner_suggested
+AP-1021,Empório São Judas,2026-06-22,49507.06,51290.21,1783.15,dashboard inclui transações pendentes,hipótese: diferença de filtro/janela,Marina Alves
+AP-1023,Supermercado Rio Verde,2026-06-22,152731.40,157204.55,4473.15,dashboard inclui lote processado às 09:02,hipótese: diferença de filtro/janela,Marina Alves
+AP-1027,Casa de Carnes Nobre,2026-06-22,58884.51,60096.43,1211.92,dashboard inclui pendentes do gateway B,hipótese: diferença de filtro/janela,Marina Alves
+AP-1030,Móveis Nova Casa,2026-06-22,88049.80,89031.17,981.37,dashboard inclui venda ainda não liquidada,hipótese: diferença de filtro/janela,Marina Alves

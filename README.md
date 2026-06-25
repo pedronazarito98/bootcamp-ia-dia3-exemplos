@@ -17,11 +17,10 @@ Este material foi organizado para funcionar tanto para pessoas **não técnicas*
 
 ## Exemplos disponíveis
 
-| Exemplo | Tema | O que pratica |
-|---|---|---|
-| `01-camila-inbox-vida-adulta` | Organização pessoal | Transformar pendências soltas em plano possível |
-| `02-bruno-reuniao-cliente-aurora-pay` | Trabalho / cliente | Preparar reunião com contexto, riscos e decisões |
-| `03-lucas-semana-possivel` | Rotina semanal | Planejar uma semana realista considerando energia e imprevistos |
+| Exemplo                               | Tema                | O que pratica                                    |
+| ------------------------------------- | ------------------- | ------------------------------------------------ |
+| `01-camila-inbox-vida-adulta`         | Organização pessoal | Transformar pendências soltas em plano possível  |
+| `02-bruno-reuniao-cliente-aurora-pay` | Trabalho / cliente  | Preparar reunião com contexto, riscos e decisões |
 
 ## Como usar em aula
 

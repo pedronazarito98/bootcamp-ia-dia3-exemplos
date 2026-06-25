@@ -1,0 +1,16 @@
+dia,periodo,compromisso_ou_contexto,energia,janela_disponivel_min,restricao,observacao
+segunda,manha,trabalho 9h-18h,média,0,não usar para tarefas pessoais longas,apenas revisar lista se necessário
+segunda,almoço,janela de 40 min,média,25,evitar tarefa emocionalmente pesada,bom para boleto ou resposta curta
+segunda,noite,chega cansada,baixa,30,tarefas de até 20 min,não iniciar organização de documentos
+terça,manhã,trabalho 9h-18h,média,0,sem janela pessoal,
+terça,almoço,janela de 35 min,média,20,sem ligações longas,bom para dentista
+terça,noite,aula online 20h-21h,baixa,20,não colocar tarefa extra pesada,somente farmácia se for no caminho
+quarta,almoço,janela de 45 min,média,25,evitar planilhas complexas,bom para revisar cartão
+quarta,noite,sem compromisso fixo,baixa,35,tarefa curta,cancelar assinatura ou lista de mercado
+quinta,almoço,janela de 30 min,média,20,tempo curto,responder RH ou confirmar consulta
+quinta,noite,ligação familiar 19h30,baixa,15,não planejar duas tarefas,apenas tarefa mínima
+sexta,almoço,janela de 40 min,média,25,fechar urgências leves,não abrir tarefa nova grande
+sexta,noite,descanso,baixa,0,preservar descanso,não usar como dia de compensação
+sábado,manhã,mais energia,alta,120,uma tarefa pesada apenas,"documentos ou backup, não ambos completos"
+sábado,tarde,tarefas domésticas leves,média,60,manter flexível,"mercado, lâmpada ou geladeira"
+domingo,fim de tarde,revisão leve,média,30,não resolver tudo,checar o que ficou e planejar próxima semana
